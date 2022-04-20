@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-@st.cache
+
 
 st.image('Logo-KDT-JU.png')
 st.write("My First Streamlit Web App")
